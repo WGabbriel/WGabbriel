@@ -2,7 +2,7 @@
 
 ------------------------------------->
 - 🔭 Estudante de Informatica no IFPE
-- 🌱 Estudando JavaScript
+- 🌱 Estudando PHP
 - 😄 Ele/Dele
 
 ------------------------------------->
